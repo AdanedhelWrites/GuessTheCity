@@ -1,0 +1,8 @@
+rootProject.name = 'GuessTheCity'
+include 'config-server'
+include 'ConfigServer'
+include 'KullaniciServisi'
+include 'SehirServisi'
+include 'TahminYonetimServisi'
+include 'SkorYonetimServisi'
+
